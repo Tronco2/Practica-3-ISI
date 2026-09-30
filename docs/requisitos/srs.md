@@ -268,6 +268,16 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
+| EII | Enfermedades Inflamatorias Intestinales, la condición de los pacientes a quienes se dirige la plataforma. | Visión y Alcance, 1.1 |
+| Paciente | Persona con EII y usuario principal de la plataforma, que busca recetas personalizadas para controlar sus síntomas y gestiona sus datos de salud. | Visión y Alcance, 3.1 |
+| Cuidador | Familiar o profesional que asiste a un paciente en la gestión de su dieta y busca y administra recetas en su nombre. Es usuario secundario. | Visión y Alcance, 3.1 |
+| Nutricionista | Profesional de la salud que contribuye con recetas especializadas y valida la calidad de las recetas de la plataforma. | Visión y Alcance, 3.1 |
+| Coordinador | Usuario que supervisa la actividad de la plataforma, gestiona reportes de contenido inadecuado y aprueba, suspende y elimina cuentas. | Visión y Alcance, 3.1 |
+| Receta | Contenido central de la plataforma, que los usuarios pueden crear, publicar, buscar, valorar y comentar, y que debe estar validado por nutricionistas. | Visión y Alcance, 1.2, 2.2 |
+| Datos de salud | Datos fisiológicos y de salud que introducen los pacientes y que tienen protección reforzada. | Visión y Alcance, 2.2, 2.5 |
+| Publicación de salud | Consejo de vida saludable que crean y difunden los profesionales de la salud. | Visión y Alcance, 2.2 |
+| Reporte de contenido inapropiado | Aviso sobre una receta, comentario, publicación de salud o usuario que revisa el coordinador. | Visión y Alcance, 3.1, 3.3 |
+| Usuario activo mensual | Usuario que usa la plataforma en un mes. Los 500 esperados son un criterio de éxito, no una carga simultánea. | Visión y Alcance, 1.3 |
 
 ## 10. Modelos de análisis
 
